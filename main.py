@@ -4,6 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Change the page title
+st.title("Python Tutorial")
+
 # Side bar
 # Table of contents
 st.sidebar.title("Table of Contents")
